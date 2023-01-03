@@ -1,0 +1,9 @@
+baseURL = "https://gregorylaun.com/"
+languageCode = "en-us"
+title = "Gregory Laun"
+theme = "PaperMod"
+
+[params]
+[params.homeInfoParams]
+title = "Gregory Laun"
+content = "ex-Googler. Ph.D. in math from University of Maryland. M.S. in Psychology from Yale. B.A. in philosophy from Northwestern."
