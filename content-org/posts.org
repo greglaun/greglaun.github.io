@@ -1,0 +1,3 @@
+#+hugo_section: blog
+#+hugo_base_dir: ../
+#+author: Gregory Laun
