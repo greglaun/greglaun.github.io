@@ -1,0 +1,6 @@
+{{ if or .Params.math .Site.Params.math }}
+<link rel="stylesheet" href="/katex-0.12.0-katex.min.css">
+<script defer src="/katex-0.12.0-katex.min.js"></script>
+<script defer src="/katex-0.12.0-auto-render.min.js"
+    onload="renderMathInElement(document.body);"></script>
+{{ end }}
